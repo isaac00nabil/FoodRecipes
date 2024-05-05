@@ -1,0 +1,14 @@
+2024-04-29 21:53:56.008 +03:00 [WRN] This is a warning log message
+2024-04-29 21:57:42.579 +03:00 [WRN] This is a warning log message
+2024-04-29 21:57:58.601 +03:00 [WRN] This is a warning log message
+2024-04-29 21:58:09.958 +03:00 [WRN] This is a warning log message
+2024-04-29 21:59:11.062 +03:00 [WRN] This is a warning log message
+2024-04-29 22:03:04.440 +03:00 [WRN] This is a warning log message
+2024-04-29 22:05:50.851 +03:00 [WRN] This is a warning log message
+2024-04-29 22:06:10.026 +03:00 [WRN] This is a warning log message
+2024-04-29 22:06:20.610 +03:00 [WRN] This is a warning log message
+2024-04-29 22:07:35.002 +03:00 [WRN] This is a warning log message
+2024-04-29 22:09:01.722 +03:00 [WRN] This is a warning log message
+2024-04-29 22:09:15.218 +03:00 [WRN] This is a warning log message
+2024-04-29 22:09:56.698 +03:00 [WRN] This is a warning log message
+2024-04-29 22:10:06.577 +03:00 [WRN] This is a warning log message
